@@ -1,0 +1,15 @@
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\bin\Debug\Soft338APIClient.exe.config
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\bin\Debug\Soft338APIClient.exe
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\bin\Debug\Soft338APIClient.pdb
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.Client.resources
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.Properties.Resources.resources
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.csproj.GenerateResource.Cache
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.exe
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.pdb
+c:\users\adamst\documents\visual studio 2012\Projects\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.csprojResolveAssemblyReference.cache
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\bin\Debug\Soft338APIClient.exe.config
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.exe
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.pdb
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\bin\Debug\Soft338APIClient.exe.config
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.exe
+C:\Users\Adamst\Downloads\AStevenson Assignment 2\AStevenson Assignment 2\Client Application\Soft338APIClient\Soft338APIClient\obj\Debug\Soft338APIClient.pdb
